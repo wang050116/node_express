@@ -1,1 +1,3 @@
 node_modules/*
+src/express-demo/src/node_modules
+src/express-demo/src/bin
